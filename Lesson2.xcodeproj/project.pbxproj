@@ -24,6 +24,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E94349C919A2AD2600222F4C /* Unit2Lesson3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Unit2Lesson3.swift; path = ../Unit2Lesson3.swift; sourceTree = "<group>"; };
 		E9E36DCF1997EC14003B64E4 /* Lesson2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Lesson2; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9E36DD21997EC14003B64E4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		E9E36DD91997ECD0003B64E4 /* CarFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarFactory.swift; sourceTree = "<group>"; };
@@ -43,6 +44,7 @@
 		E9E36DC61997EC14003B64E4 = {
 			isa = PBXGroup;
 			children = (
+				E94349C919A2AD2600222F4C /* Unit2Lesson3.swift */,
 				E9E36DD11997EC14003B64E4 /* Lesson2 */,
 				E9E36DD01997EC14003B64E4 /* Products */,
 			);
@@ -237,6 +239,7 @@
 				E9E36DD81997EC14003B64E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
